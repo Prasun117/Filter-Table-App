@@ -1,15 +1,133 @@
 {
-  "total": 10,
+  "total": 17,
   "entries": [
-  {"name": "prasun","screen_name":"prasun1996","followers_count":100,"following_count":1000,"location":"Indore","verified":"yes"
-},{"name": "aksh","screen_name":"aksh1996","followers_count":100,"following_count":1000,"location":"Pune","verified":"yes"
-},{"name": "yash","screen_name":"prasun1996","followers_count":100,"following_count":1000,"location":"Seatle","verified":"yes"
-},{"name": "yashonil","screen_name":"yash1996","followers_count":100,"following_count":1000,"location":"Indore","verified":"yes"
-},{"name": "suryash","screen_name":"prasun1996","followers_count":100,"following_count":1000,"location":"Pune","verified":"yes"
-},{"name": "santosh","screen_name":"suryash1996","followers_count":100,"following_count":1000,"location":"Chennai","verified":"yes"
-},{"name": "ritwik","screen_name":"prasun1996","followers_count":100,"following_count":1000,"location":"Kolkata","verified":"yes"
-},{"name": "Pratush","screen_name":"ritwik1996","followers_count":100,"following_count":1000,"location":"Kolkata","verified":"yes"
-},{"name": "Tony Jaa","screen_name":"TonyJ1996","followers_count":100,"following_count":1000,"location":"Indore","verified":"yes"
-},{"name": "Raj","screen_name":"Raj1996","followers_count":100,"following_count":1000,"location":"Bangalore","verified":"yes"
-}]
+    {
+      "name": "prasun",
+      "screen_name": "prasun1996",
+      "followers_count": 10000,
+      "following_count": 1000,
+      "location": "Indore",
+      "verified": "yes"
+    },
+    {
+      "name": "aksh",
+      "screen_name": "aksh1996",
+      "followers_count": 1200,
+      "following_count": 1000,
+      "location": "Pune",
+      "verified": "yes"
+    },
+    {
+      "name": "yash",
+      "screen_name": "yash1996",
+      "followers_count": 1233200,
+      "following_count": 1000,
+      "location": "Seatle",
+      "verified": "yes"
+    },
+    {
+      "name": "yashonil",
+      "screen_name": "yashonil1996",
+      "followers_count": 112200,
+      "following_count": 1000,
+      "location": "Indore",
+      "verified": "yes"
+    },
+    {
+      "name": "suryash",
+      "screen_name": "suryash1996",
+      "followers_count": 20000,
+      "following_count": 1000,
+      "location": "Pune",
+      "verified": "yes"
+    },
+    {
+      "name": "santosh",
+      "screen_name": "suryash1996",
+      "followers_count": 100000,
+      "following_count": 1000,
+      "location": "Chennai",
+      "verified": "yes"
+    },
+    {
+      "name": "ritwik",
+      "screen_name": "ritwik1996",
+      "followers_count": 500,
+      "following_count": 1000,
+      "location": "Kolkata",
+      "verified": "yes"
+    },
+    {
+      "name": "Pratush",
+      "screen_name": "Pratush1996",
+      "followers_count": 9000,
+      "following_count": 1000,
+      "location": "Kolkata",
+      "verified": "yes"
+    },
+    {
+      "name": "Tony Jaa",
+      "screen_name": "TonyJ1996",
+      "followers_count": 1123050,
+      "following_count": 1000,
+      "location": "Indore",
+      "verified": "yes"
+    },
+    {
+      "name": "Shubham",
+      "screen_name": "Shubham1996",
+      "followers_count": 10,
+      "following_count": 1000,
+      "location": "Bangalore",
+      "verified": "yes"
+    },
+    {
+      "name": "Gyakul",
+      "screen_name": "GyakulisDon",
+      "followers_count": 100,
+      "following_count": 10000,
+      "location": "Bhopal",
+      "verified": "no"
+    },
+    {
+      "name": "Jhanvi",
+      "screen_name": "JhanviISCool",
+      "followers_count": 100,
+      "following_count": 100000,
+      "location": "Bangalore",
+      "verified": "yes"
+    },
+    {
+      "name": "Mamta",
+      "screen_name": "MaKiMamta",
+      "followers_count": 100,
+      "following_count": 100,
+      "location": "Delhi",
+      "verified": "yes"
+    },
+    {
+      "name": "Chetan",
+      "screen_name": "ChetanisBack",
+      "followers_count": 100,
+      "following_count": 2000,
+      "location": "Bangalore",
+      "verified": "no"
+    },
+    {
+      "name": "Vidya",
+      "screen_name": "Vidyaforfun",
+      "followers_count": 100,
+      "following_count": 3000,
+      "location": "Taxes",
+      "verified": "no"
+    },
+    {
+      "name": "Abhisek",
+      "screen_name": "Abhisek96",
+      "followers_count": 100,
+      "following_count": 5000,
+      "location": "Mumbai",
+      "verified": "yes"
+    }
+  ]
 }
